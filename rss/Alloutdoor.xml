@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.tiktok.com/@iamtabithabrown</id>
+  <id>https://www.tiktok.com/@Alloutdoorcom</id>
   <title>iamtabithabrown TikTok</title>
   <updated>2022-01-12T19:59:14+00:00</updated>
   <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
+    <name>Alloutdoor</name>
+    <email></email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.conoroneill.com/rss/iamtabithabrown.xml" rel="self"/>
+  <link href="https://tiktokrss.LGonGithub.com/rss/Alloutdoor.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
+  <logo>https://tiktokrss.LGonGithub.com/tiktok-rss.png</logo>
+  <subtitle>All the latest TikToks from Alloutdoor</subtitle>
   <entry>
     <id>https://www.tiktok.com/@iamtabithabrown/video/7043503296069405998</id>
     <title>#ad Creamy mushroom and spinach soup using some of my favorite seasoning’s from @McCormick Kitchens  What’s your favorite soup recipe? #ad</title>
