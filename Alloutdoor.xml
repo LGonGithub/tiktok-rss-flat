@@ -24,11 +24,11 @@
   
   
   
-  <link crossorigin="anonymous" media="all" integrity="sha512-GveaIWaHMQ/EAUxl3v20swDAsEowEOI87yCBKOYDcEtkOnZRXntqdTIBzkQqVJXoU2/PhutE0DYCGKafw6dQ3g==" rel="stylesheet" href="https://github.githubassets.com/assets/github-1af79a216687310fc401.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-1nwP7mOTtxd5kt7EmBrhD1q0R7VXGymiuBEZofVjFBe6RwKT92Paw+dqHRz2qFJjvAOsrJWVIWw0wQHOEEqcGw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d67c0fee6393b7177992.css" />
 
     <script crossorigin="anonymous" defer="defer" integrity="sha512-42SXFvQHDz2FyN94xIyfcefqRg+Rr0oaj8QR12wnRhCuREAcqJa251RtFwUdt6YhydPAqg+H7POP4+ggIjWrFQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-e3649716.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-PkG/XW9tJlpl1ddcDh07L65WNnaJOuScqwUeBHgAm3dGk5rhHGUPOp4za+WKVBzzwDkkV1m1EJDdrKhsNKoUtA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-3e41bf5d.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-R1ftUAl6Lbqgmeos6CfM5Z7LeX7tUik72SeEz14Bk2kX0RsP6TVoVTsNSLMq+pgzGiQWgims9peOhjAviRSfXg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-4757ed50.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-T1gvVJpDUbgQ+JfL551fhFeYJE6uMAWjWNSNjuQYLgjLswj2r4ZJfHISrhSCUWZBKGBIRAXeidq3Y+d9YjcdCQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-4f582f54.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-vgWV8b1FcpGErHwOitpIbvNmtQZwsw55TUraZngdfnHB3P+ZQnxzKD1L//RqzlWMB9sExBRhfOt1rHCxrru/Fg==" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-be0595f1.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-zrdOuBFf5tOfZWMhzngnu36yXuchioqncT3xDtD2ZPPN9Duf5yBhtLgEFejWWrmNyx3rbiAcaarJrbpQHLvqXA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-ceb74eb8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-QJOVXs8UW2egqYjA0sv3TAATdCX6IAdBOGd8ScZJVfP1WJAWg6nh/P8FUKERkAjIviTKAMUwh9OEnbtnTz8PKw==" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-4093955e.js"></script>
@@ -125,6 +125,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-OtjCc7UezN3MvWiHOS/5lYkrBdHOAhcFrGD6/zMgTAugw5BSOaRrrux3wJxv9OlHHgxI32nOkesATHdRyucitA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-3ad8c273.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-YT1sZoBexRNsvw2mnXAtdf87/5j3cL8ji/WS6h9F0mMh0wyUEx3EElel6roRMoI2Zq+bn5d1i8TSCeZJ84a6Rw==" type="application/javascript" data-module-id="./chunk-series-table.js" data-src="https://github.githubassets.com/assets/chunk-series-table-613d6c66.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-0ho0SIKf1TsQpvFNdpkKw57DmpU8LampLRvO67Q0G+6744f/qI8uTtL96F5tOPT56dG40cwoKB8v6kYqyGipvw==" type="application/javascript" data-module-id="./chunk-severity-calculator-element.js" data-src="https://github.githubassets.com/assets/chunk-severity-calculator-element-d21a3448.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-3gWpxOb9jAEGOIQDvl0VKg384SkTRlyiTBuy45xXFSg6tST7iHCXgJrVBhb7rnD0zUGM2eEur3HWzlX19+JhIQ==" type="application/javascript" data-module-id="./chunk-signalr-socket.js" data-src="https://github.githubassets.com/assets/chunk-signalr-socket-de05a9c4.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-dFDltVJPgBJ+YpDMhcd3aDGmO08RmhPriPDYIDU+jAdZbWqbs4oD9PbZ+ebPjRdyhZxbRvFKOKtxqDsLciK+SQ==" type="application/javascript" data-module-id="./chunk-slug.js" data-src="https://github.githubassets.com/assets/chunk-slug-7450e5b5.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-SGxKZJPMoMDPJ4mVhReJ1NPmXxuTuePhizAUPkKphsivzZhVQstruqwewm3oUpP1yONOG8MITAodv/5iKRsEtw==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-486c4a64.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-roc/0cfaua9wDuXAOgLBYymh7ketXEgdvrXH5cKsDrwrHA8RdLZyyKvncKkwMTtAXvFBYnhOfxrRYJuu5kCyCQ==" type="application/javascript" data-module-id="./chunk-spoofed-commit-warning.js" data-src="https://github.githubassets.com/assets/chunk-spoofed-commit-warning-ae873fd1.js"></script>
@@ -172,7 +173,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0400:682D:26A878A:3DDA4E2:621E3DEC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0708ce4a78f5855653cc5e656dc9ef1ebddda9a4a79930bf4736418222759380" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDAwOjY4MkQ6MjZBODc4QTozRERBNEUyOjYyMUUzREVDIiwidmlzaXRvcl9pZCI6IjYyMTY1MzA5ODAwNjcyMjkxNjQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="c2ab6b9a988c24f318ea63c21a2136ce330a9264591ea113f1a61e4535a670d1" data-pjax-transient="true"/>
+  <meta name="request-id" content="07C0:7004:15B21E4:1AACB7B:621E50CE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0b9ef76b9020555cc0fb08acdb6f0785b53ae0820b975ee4d8b86f6295152941" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwN0MwOjcwMDQ6MTVCMjFFNDoxQUFDQjdCOjYyMUU1MENFIiwidmlzaXRvcl9pZCI6IjQ4MTYwMjgyNTAzNDU5ODQyMDYiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="a4e69f7d18e9ba2a4105cb551e30378fdcf5c6da609abf2a5ecd5deadce6884a" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:458664064" data-pjax-transient>
 
@@ -209,10 +210,10 @@
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
 
-  <meta http-equiv="x-pjax-version" content="2bcdb546b5267ae54c06044b67364a7da1e5146d41194a50e42c3a02654b1dfb" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="db880274e6e31892ec0438b2d1640a66e2e925dc1aae857eedb785aecc2621cb" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="ad743a89372c421844ffcba4fd906096b07b7fd7c2a57617ff2d2f0fdf463e56" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="e892645f5bfbff72700c4410c8078b36d133f9c95cd8a126f25d7bd682f83fa4" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="1116b4fdab4f3fa6675118d214cbfe3907b08dbd0cbe0d503ef67c6882ecd87d" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="51838b7fac5685cca82289cc316f3e63602d0444a5a3e71d164d478e1fbd31d3" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="ee6751eb4479d46996aef4e9d8cd83943e676b6f3b641a0df039be2ab4d4b311" data-turbo-track="reload">
   
 
     
@@ -515,7 +516,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="DVe+xlSoNgCmg7uQC+m+Jp2MbPgkfRyl0cBtBTMmuxTUBNqIB5pLFUPY5dUIMnwtqvKNIyimr6bMHZdrBSJd9A==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="J5jWMqU0zgFAQMawyewO91nRX/gWML9OEuU/cEM+nBA04a16FxpjYnWljZt5HPSiwtLJKVs9t2zIlFOZpEDu5w==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -988,7 +989,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df/rss/Alloutdoor.xml">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/38b231855177b098786f4b623b673fc78b7d874e/rss/Alloutdoor.xml">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -1179,7 +1180,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/38b231855177b098786f4b623b673fc78b7d874e/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1207,7 +1208,7 @@
   
 </div></div>
 
-    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/38b231855177b098786f4b623b673fc78b7d874e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
       <include-fragment src="/LGonGithub/tiktok-rss-flat/contributors/main/rss/Alloutdoor.xml" class="commit-loader">
@@ -1247,8 +1248,8 @@
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/38b231855177b098786f4b623b673fc78b7d874e/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/38b231855177b098786f4b623b673fc78b7d874e/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -1748,7 +1749,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/76cc3d6ad66d2253def0bdcb15e8bbec718ff2df/rss/Alloutdoor.xml">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/38b231855177b098786f4b623b673fc78b7d874e/rss/Alloutdoor.xml">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
