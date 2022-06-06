@@ -63,7 +63,7 @@
 
     
 
-  <meta name="request-id" content="0400:53C8:2BC1155:4AB4F70:629E2ED0" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a4e68213259acb9943be678d41018e44e4ef60398889eb39479416697a1ef197" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDAwOjUzQzg6MkJDMTE1NTo0QUI0RjcwOjYyOUUyRUQwIiwidmlzaXRvcl9pZCI6Ijg3OTk5MDI3NzU4MTgyMDI4MzIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="41e169536a5b75d40578487e1b45bf250c1d03ee74561b040f429b416e8061d2" data-pjax-transient="true"/>
+  <meta name="request-id" content="0440:78B8:34647C:80EA0F:629E3921" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e17f043fa602e5fff25014d8d49f84c930cd82e52912b38f9ce8b64a88d73885" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDQwOjc4Qjg6MzQ2NDdDOjgwRUEwRjo2MjlFMzkyMSIsInZpc2l0b3JfaWQiOiI4MTA1NTEwNzY4NTUxNTQxMDI1IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="cecad586d66cc4633ca871528f0e812c1a849838b62dc5684c6e5d06fdfcbdb7" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:458664064" data-pjax-transient>
 
@@ -311,8 +311,8 @@
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/LGonGithub/tiktok-rss-flat/blob/main/rss/Alloutdoor.xml;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
-      Learning Lab
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Skills&quot;,&quot;label&quot;:&quot;ref_page:/LGonGithub/tiktok-rss-flat/blob/main/rss/Alloutdoor.xml;ref_cta:Skills;&quot;}" href="https://skills.github.com/">
+      Skills
 </a>  </li>
 
               <li>
@@ -429,7 +429,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="+cK6JooO/UqCM++RPyuN0s978OG/5P4RHMEhO1VlsR9YAmBIUJSr4E9fHPT/OkCA4OV/pr89s3KuAB8zhZtlyw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="0dbN+W3UR8u1a3lCY+xbCBeF8VN2JaKQTAv/zlT4H0waiYQV90FksESbytRaTwCzrVK76W29rJkSVoYFCDAGwQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -910,7 +910,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1/rss/Alloutdoor.xml">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f/rss/Alloutdoor.xml">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1097,7 +1097,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1126,7 +1126,7 @@
   
 </div></div>
 
-    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/LGonGithub/tiktok-rss-flat/contributors/main/rss/Alloutdoor.xml" class="commit-loader">
@@ -1167,9 +1167,9 @@
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -1671,7 +1671,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/0bebeeb6dc10263d5e7032b73eb059ccc54f8ec1/rss/Alloutdoor.xml">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/052b91f3db4172ea4d8eda2fee93c0b9a7c0888f/rss/Alloutdoor.xml">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
