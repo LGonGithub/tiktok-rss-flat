@@ -82,7 +82,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="B840:4012:DC6180:14C108F:642EAA2A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="1ce01e5b94dfeb682e8338a72f671f9dc875b499ca4e4a1d55e64c39603933f8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCODQwOjQwMTI6REM2MTgwOjE0QzEwOEY6NjQyRUFBMkEiLCJ2aXNpdG9yX2lkIjoiMjUzMDg0NzQ3NDEyOTQ4MDIzNCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="b8f8f31dfbfbb6204b2911a26f6201cea9cd0e88fb00c444e066941c446fe092" data-pjax-transient="true"/>
+  <meta name="request-id" content="D039:5FAB:1C5592:2BA796:642EBD22" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a02d6617c0f073f3e090feb85d03bd689706809274285e73ff61e3ac40a9d5cd" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMDM5OjVGQUI6MUM1NTkyOjJCQTc5Njo2NDJFQkQyMiIsInZpc2l0b3JfaWQiOiI0MTQzNDQwNzQ0MTAzNzIyMjc0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="8dabaccac07f62b0e91940a4623faeb74ee464ab3936350746b8c2e0d7f359a1" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:458664064" data-turbo-transient>
@@ -580,7 +580,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4Pe2p+PP77yBmsxNuh+p7WGBp+Cotv4JwEbIsKoAc/pZHzULT3oKF4dhuMSf7LUMg6jzheS/GS2/Vnm5870vJQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Vtcqgfqu+GfUmYEJXOrVLbsJvqr4XHp7cod0eoIVKWBzeqVzdX7xgiMIPClBhfGCtHnmCWGq9F+QqgTDWNRUEg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -874,7 +874,8 @@
 
         </div>
 
-          <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
+        <div id="repository-details-container" data-turbo-replace>
+            <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
       
 
@@ -910,6 +911,7 @@
 
 </ul>
 
+        </div>
       </div>
 
         <div id="responsive-meta-container" data-turbo-replace>
@@ -1053,7 +1055,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/0aaeeffba57362e15c18f1b08c28ca441ed6a524/rss/Alloutdoor.xml">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LGonGithub/tiktok-rss-flat/blob/a05906a861284195f8e21c708aeda79019ddbe69/rss/Alloutdoor.xml">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1274,7 +1276,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/0aaeeffba57362e15c18f1b08c28ca441ed6a524/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LGonGithub/tiktok-rss-flat/blob/a05906a861284195f8e21c708aeda79019ddbe69/rss/Alloutdoor.xml" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1302,7 +1304,7 @@
   
 </div></div>
 
-    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/0aaeeffba57362e15c18f1b08c28ca441ed6a524" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/LGonGithub/tiktok-rss-flat/spoofed_commit_check/a05906a861284195f8e21c708aeda79019ddbe69" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/LGonGithub/tiktok-rss-flat/contributors/main/rss/Alloutdoor.xml" class="commit-loader">
@@ -1344,11 +1346,11 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/0aaeeffba57362e15c18f1b08c28ca441ed6a524/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/LGonGithub/tiktok-rss-flat/raw/a05906a861284195f8e21c708aeda79019ddbe69/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/raw/main/rss/Alloutdoor.xml" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/0aaeeffba57362e15c18f1b08c28ca441ed6a524/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/LGonGithub/tiktok-rss-flat/blame/a05906a861284195f8e21c708aeda79019ddbe69/rss/Alloutdoor.xml" href="/LGonGithub/tiktok-rss-flat/blame/main/rss/Alloutdoor.xml" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1357,7 +1359,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/LGonGithub/tiktok-rss-flat/edit/main/rss/Alloutdoor.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TAJBe8du1KIAcM7Fw1uGzHLYni3eyY0EWxja015J_3ipd7I2bKri-_xPMrl9bBo3VZcsu685KYJ60ljRNBSNrQ" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/LGonGithub/tiktok-rss-flat/edit/main/rss/Alloutdoor.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j2cLA6alNxh-0d_7sUOGQFcuaJ-xNjXqBO_vhXdPwoMO9GNrI3r9om4CdIGizLXQSBhM2oRpBsVNTBwJthu7sg" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1367,7 +1369,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/LGonGithub/tiktok-rss-flat/edit/main/rss/Alloutdoor.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J_34Yv4c71iJSQwRT1YDmgthHNn5ofJZc8wUV1nXH0LCiAsvVdjZAXV28G3xYZ9hLC6uT4hRVt9SBpZVM4ptlw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/LGonGithub/tiktok-rss-flat/edit/main/rss/Alloutdoor.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nn8HlEhdVQUdW9fPd05Tv1fmHyF6L2ejWGval5orSOa37G_8zYKfvw2IfLVkwWAvSNA7ZE9wVIwRyCkbW38x1w" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1869,7 +1871,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/0aaeeffba57362e15c18f1b08c28ca441ed6a524/rss/Alloutdoor.xml">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LGonGithub/tiktok-rss-flat/blame/a05906a861284195f8e21c708aeda79019ddbe69/rss/Alloutdoor.xml">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
